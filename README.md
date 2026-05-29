@@ -1,6 +1,6 @@
 # Photo to ASCII
 
-A free, in-browser tool that turns any photo into ASCII art. Inspired by the look and feel of asciiart.eu, but focused on a single job: converting images into text art.
+A free, in-browser tool that turns any photo into ASCII art. Inspired by the look and feel of asciiart.eu, but focused on a single job: converting images into text art. Made this with Claude for an activity we did in Oregon Blockchain Group.
 
 ## Features
 
